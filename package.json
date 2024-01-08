@@ -41,8 +41,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@mikro-orm/core": "^5.8.1",
-    "@mikro-orm/postgresql": "^5.8.1",
+    "@mikro-orm/core": "^5.9.7",
+    "@mikro-orm/postgresql": "^5.9.7",
     "functional-red-black-tree": "^1.0.1",
     "immutable": "^4.0.0-rc.12",
     "json-stable-stringify": "^1.0.1",
